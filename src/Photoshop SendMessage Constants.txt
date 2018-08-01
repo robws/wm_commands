@@ -1,0 +1,5 @@
++photoshop sendmessage
+1109	expand
+1110	contract
+6300	new solid fill
+6308	adjustment layer
