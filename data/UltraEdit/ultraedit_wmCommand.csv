@@ -1,100 +1,104 @@
-Paragraph,"Reformat Paragraph\tCtrl+T", 32842
-Paragraph,"Left Align", 33030
-Paragraph,"Right Align", 33031
-Paragraph,"Center Align", 33032
-Paragraph,"Fill Paragraph", 33033
-Paragraph,"Paragraph Setup/Formatting...", 33029
-TextFormat,"Convert CR/LFs to Wrap", 32811
-TextFormat,"Convert Wrap to CR/LFs", 32812
-TextFormat,"Tabs to Spaces", 32935
-TextFormat,"Spaces to Tabs (All)", 32938
-TextFormat,"Spaces to Tabs (Leading)", 32936
-TextFormat,"Trim Trailing Spaces", 32910
-Convert,"OEM to ANSI", 32868
-Convert,"ANSI to OEM", 32869
-TextCasing,"To Upper Case\tAlt+F5", 32808
-TextCasing,"To Lower Case\tCtrl+F5", 32809
-TextCasing,"Capitalize \tF5", 32810
-TextCasing,"Invert Case\tShft+F5", 32867
-TextSpacing,"Add Indents", 32797
-TextSpacing,"Remove Indents", 32798
-TextFormat,"Insert Page Break", 32802
-HTMLTools,"Run HTML Tidy", 842
-HTMLTools,"Run CSE HTML Validator", 33172
-HTMLTools,"CSE HTML Validator Job Type...", 33174
-HTMLTools,"CSE HTML Validator Options...", 33175
-HTMLTools,"CSE HTML Validator Configuration", 33173
-XML,"XML Convert to CR/LFs", 33332
-TextIndent,"ReIndent Selection", 33135
-Clipboard,"Undo\tCtrl+Z", 57643
-Clipboard,"Redo\tCtrl+Y", 57644
-Clipboard,"Cut\tCtrl+X", 57635
-Clipboard,"Copy\tCtrl+C", 57634
-Clipboard,"Paste\tCtrl+V", 57637
-Clipboard,"Cut  Append\tCtrl+Shift+X", 33086
-Clipboard,"Copy Append\tCtrl+Shift+C", 33087
-File,"Copy File Path/Name", 33038
-Clipboard,"Windows Clipboard\tCtrl+0", 32997, CHECKED
-Clipboard,"User Clipboard 1\tCtrl+1", 32996
-Clipboard,"User Clipboard 2\tCtrl+2", 32998
-Clipboard,"User Clipboard 3\tCtrl+3", 32999
-Clipboard,"User Clipboard 4\tCtrl+4", 33000
-Clipboard,"User Clipboard 5\tCtrl+5", 33001
-Clipboard,"User Clipboard 6\tCtrl+6", 33002
-Clipboard,"User Clipboard 7\tCtrl+7", 33003
-Clipboard,"User Clipboard 8\tCtrl+8", 33004
-Clipboard,"User Clipboard 9\tCtrl+9", 33005
-FindReplace,"Find\tAlt+F3", 57636
-FindReplace,"Replace\tCtrl+R", 57641
-Select,"Select All\tCtrl+A", 32837
-Select,"Select Line", 32835
-Select,"Select Word\tCtrl+J", 32927
-Select,"Select Range", 32994
-Delete,"Delete\tDEL", 32957
-"Delete Line\tCtrl+E", 32862
-"Delete to Start of Line\tCtrl+F11", 32956
-"Delete to End of Line\tCtrl+F12", 32955
-"Date/Time\tF7", 32863
-"Hex Edit\tCtrl+H", 32789, CHECKED
-"Hex Insert/Delete\tCtrl+D", 32800
-"Hex Copy Selected View", 33171
-"Spell Check\tCtrl+K", 32841
-"Read Only", 32865, CHECKED
-"Toggle Word-Wrap\tCtrl+W", 32773
-"Comment Add", 33036
-"Comment Remove", 33037
-"Insert color", 840
-"Number Converter", 844
-"Close", 57602
-"Close All Files Except This", 33176
-"Open Folder", 34500
-"Save\tCtrl+S", 57603
-"Save As...\tF12", 57604
-"Save Selection As...", 32864
-"Make Copy/Backup", 33012
-"Revert to Saved", 32958
-"Rename File", 33130
-"Copy File Path/Name", 33038
-"Sort File (Using Current Options)", 32871
-"Advanced Sort/Options...", 32872
-"UNIX/MAC to DOS", 32807
-"DOS to MAC", 32870
-"DOS to UNIX", 32840
-"EBCDIC to ASCII", 32908
-"ASCII to EBCDIC", 32909
-"OEM to ANSI", 32868
-"ANSI to OEM", 32869
-"ASCII to Unicode", 35990
-"Unicode to ASCII", 35991
-"Insert File", 32813
-"Delete Active File", 32772
-"Send Mail", 57612
-"Insert String At Every Increment", 32904
-"Print...\tCtrl+P", 57607
-"Print Preview", 57609
-"Restore", 32931
-"Minimize", 32930
-"Maximize", 32932
-"Sort File Tabs", 33027
-"Multiline Tabs", 32795
-"Tabs At The Bottom", 32899
+Revert to Saved, 32958
+File,Copy File Path/Name, 33038
+Sort File (Using Current Options), 32871
+Sort File Tabs, 33027
+Advanced Sort/Options..., 32872
+Toggle Word-Wrap\tCtrl+W, 32773
+ANSI to OEM, 32869
+ASCII to EBCDIC, 32909
+ASCII to Unicode, 35990
+Clipboard,Copy Append\tCtrl+Shift+C, 33087
+Clipboard,Copy\tCtrl+C, 57634
+Clipboard,Cut  Append\tCtrl+Shift+X, 33086
+Clipboard,Cut\tCtrl+X, 57635
+Clipboard,Paste\tCtrl+V, 57637
+Clipboard,Redo\tCtrl+Y, 57644
+Clipboard,Undo\tCtrl+Z, 57643
+Clipboard,User Clipboard 1\tCtrl+1, 32996
+Clipboard,User Clipboard 2\tCtrl+2, 32998
+Clipboard,User Clipboard 3\tCtrl+3, 32999
+Clipboard,User Clipboard 4\tCtrl+4, 33000
+Clipboard,User Clipboard 5\tCtrl+5, 33001
+Clipboard,User Clipboard 6\tCtrl+6, 33002
+Clipboard,User Clipboard 7\tCtrl+7, 33003
+Clipboard,User Clipboard 8\tCtrl+8, 33004
+Clipboard,User Clipboard 9\tCtrl+9, 33005
+Clipboard,Windows Clipboard\tCtrl+0, 32997, CHECKED
+Close All Files Except This, 33176
+Close, 57602
+Comment Add, 33036
+Comment Remove, 33037
+Convert,ANSI to OEM, 32869
+Convert,OEM to ANSI, 32868
+Copy File Path/Name, 33038
+Date/Time\tF7, 32863
+Delete Active File, 32772
+Delete Line\tCtrl+E, 32862
+Delete to End of Line\tCtrl+F12, 32955
+Delete to Start of Line\tCtrl+F11, 32956
+Delete,Delete\tDEL, 32957
+DOS to MAC, 32870
+DOS to UNIX, 32840
+EBCDIC to ASCII, 32908
+
+FindReplace,Find\tAlt+F3, 57636
+FindReplace,Replace\tCtrl+R, 57641
+Hex Copy Selected View, 33171
+Hex Edit\tCtrl+H, 32789, CHECKED
+Hex Insert/Delete\tCtrl+D, 32800
+HTMLTools,CSE HTML Validator Configuration, 33173
+HTMLTools,CSE HTML Validator Job Type..., 33174
+HTMLTools,CSE HTML Validator Options..., 33175
+HTMLTools,Run CSE HTML Validator, 33172
+HTMLTools,Run HTML Tidy, 842
+Insert color, 840
+Insert File, 32813
+Insert String At Every Increment, 32904
+Make Copy/Backup, 33012
+Maximize, 32932
+Minimize, 32930
+Multiline Tabs, 32795
+Number Converter, 844
+OEM to ANSI, 32868
+Open Folder, 34500
+Paragraph,Center Align, 33032
+Paragraph,Fill Paragraph, 33033
+Paragraph,Left Align, 33030
+Paragraph,Paragraph Setup/Formatting..., 33029
+Paragraph,Reformat Paragraph\tCtrl+T, 32842
+Paragraph,Right Align, 33031
+Print Preview, 57609
+Print...\tCtrl+P, 57607
+Read Only, 32865, CHECKED
+Rename File, 33130
+Restore, 32931
+
+Save As...\tF12, 57604
+Save Selection As..., 32864
+Save\tCtrl+S, 57603
+Select,Select All\tCtrl+A, 32837
+Select,Select Line, 32835
+Select,Select Range, 32994
+Select,Select Word\tCtrl+J, 32927
+Send Mail, 57612
+
+Spell Check\tCtrl+K, 32841
+Tabs At The Bottom, 32899
+TextCasing,Capitalize \tF5, 32810
+TextCasing,Invert Case\tShft+F5, 32867
+TextCasing,To Lower Case\tCtrl+F5, 32809
+TextCasing,To Upper Case\tAlt+F5, 32808
+TextFormat,Convert CR/LFs to Wrap, 32811
+TextFormat,Convert Wrap to CR/LFs, 32812
+TextFormat,Insert Page Break, 32802
+TextFormat,Spaces to Tabs (All), 32938
+TextFormat,Spaces to Tabs (Leading), 32936
+TextFormat,Tabs to Spaces, 32935
+TextFormat,Trim Trailing Spaces, 32910
+TextIndent,ReIndent Selection, 33135
+TextSpacing,Add Indents, 32797
+TextSpacing,Remove Indents, 32798
+
+Unicode to ASCII, 35991
+UNIX/MAC to DOS, 32807
+XML,XML Convert to CR/LFs, 33332
