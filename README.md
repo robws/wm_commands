@@ -1,6 +1,6 @@
 # WM_Command SendMessage constants for popular applications
 
-By extracting the **menu** resources from EXE and DLL files, you can often discover the constant to automate those functions yourself in a language like [Autohotkey](www.autohotkey.com) via [SendMessage/PostMessage](https://autohotkey.com/docs/commands/PostMessage.htm). 
+By extracting the **menu** resources from EXE and DLL files, you can often discover the constant to automate those functions yourself in a language like [Autohotkey](https://www.autohotkey.com) via [SendMessage/PostMessage](https://autohotkey.com/docs/commands/PostMessage.htm). 
 
 **.rc** files are text and resemble the following (taken from Process Monitor):
 
